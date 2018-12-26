@@ -1,7 +1,7 @@
 # technical-dictionary
 Create a technical dictionary from bugs.eclipse.
 
-First, we crawl bug reports of all products available on bugs.eclipse including its comments. In this step, we need to use Selenium to download these bug reports automatically. This process takes time.
+First, we crawl bug reports of all products available on bugs.eclipse including its comments. In this step, we need to use Selenium and Firefox to download these bug reports automatically. This process takes time.
 
 From these bug reports, we analyze it to create a technical dictionary.
 
